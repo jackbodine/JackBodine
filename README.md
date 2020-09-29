@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackBodine&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JackBodine)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackBodine&exclude_repo=dotfiles,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackBodine&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JackBodine)](https://github.com/anuraghazra/github-readme-stats)!-->
 
 <!--
 **JackBodine/JackBodine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
