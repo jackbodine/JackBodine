@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi I'm Jack 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackBodine&exclude_repo=dotfiles,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+I'm currently studying CS and Math at The University of Puget Sound. 
+My favorite language is Haskell. 
+I'm currently working on learning iOS development.
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackBodine&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JackBodine)](https://github.com/anuraghazra/github-readme-stats)!-->
